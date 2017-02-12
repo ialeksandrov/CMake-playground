@@ -1,0 +1,3 @@
+/home/ivan/cmake-practice/build/CMakeFiles/edit_cache.dir
+/home/ivan/cmake-practice/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/cmake-practice/build/CMakeFiles/hello.dir
